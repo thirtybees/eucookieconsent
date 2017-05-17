@@ -441,11 +441,6 @@ class EuCookieConsent extends Module
                         ],
                     ],
                     [
-                        'type'  => 'themes',
-                        'label' => $this->l('Themes'),
-                        'name'  => '',
-                    ],
-                    [
                         'type'  => 'color',
                         'label' => $this->l('Banner color'),
                         'name'  => static::DISPLAY_PALETTE_BANNER,
