@@ -1,0 +1,21 @@
+{
+  "EUCOOKIECONSENT_POSITION": 1,
+  "EUCOOKIECONSENT_LAYOUT": 3,
+  "EUCOOKIECONSENT_BANNER": "#000000",
+  "EUCOOKIECONSENT_BANNERTXT": "#ffffff",
+  "EUCOOKIECONSENT_BUTTON": "#f1d600",
+  "EUCOOKIECONSENT_BUTTONTXT": "#000000",
+  "EUCOOKIECONSENT_LEARNMORE": {
+    "en": "http://cookies.insites.com/"
+  },
+  "EUCOOKIECONSENT_MESSAGETXT": {
+    "en": "This website uses cookies to ensure you get the best experience on our website."
+  },
+  "EUCOOKIECONSENT_DISMISSTXT": {
+    "en" : "Got it!"
+  },
+  "EUCOOKIECONSENT_POLICYTXT": {
+    "en": "Learn mode"
+  },
+  "EUCOOKIECONSENT_GEOIP": true
+}
