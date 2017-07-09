@@ -19,6 +19,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 <script>
   window.addEventListener('load', function() {
-    window.cookieconsent.initialise({$widgetSettings});
+    // If cookie consent is undefined by then, it might have been blocked by e.g. Ghostery
+    if (typeof window.cookieconsent !== 'undefined') {
+      window.cookieconsent.initialise({$widgetSettings});
+    }
   });
 </script>
