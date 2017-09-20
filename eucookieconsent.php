@@ -45,7 +45,7 @@ class EuCookieConsent extends Module
     public function __construct()
     {
         $this->name = 'eucookieconsent';
-        $this->tab = 'administration';
+        $this->tab = 'front_office_features';
         $this->version = '1.0.1';
         $this->author = 'thirty bees';
         $this->need_instance = 0;
