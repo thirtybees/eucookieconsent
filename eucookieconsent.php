@@ -46,7 +46,7 @@ class EuCookieConsent extends Module
     {
         $this->name = 'eucookieconsent';
         $this->tab = 'front_office_features';
-        $this->version = '1.0.1';
+        $this->version = '1.0.2';
         $this->author = 'thirty bees';
         $this->need_instance = 0;
         $this->bootstrap = true;
