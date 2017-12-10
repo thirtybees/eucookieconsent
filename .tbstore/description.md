@@ -1,0 +1,1 @@
+The EU cookie consent module asks customers if they want to be cookied to use your site. This module complies with the EU cookie requirement laws. 
